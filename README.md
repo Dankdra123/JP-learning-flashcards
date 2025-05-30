@@ -2,5 +2,5 @@
 A flashcard desktop application for learning a chosen language's vocabulary.
 
 
-![Flashcard Application] (assets/screenshot.PNG)
+![Flashcard Application](assets/screenshot.png)
 
